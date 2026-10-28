@@ -1,0 +1,6 @@
+model,MAE,R2
+Median baseline,14.0,-0.087
+Ridge,11.62,0.276
+Random Forest,11.26,0.293
+LightGBM,10.89,0.336
+LightGBM + Optuna,10.88,0.296
